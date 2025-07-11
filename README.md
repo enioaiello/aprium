@@ -21,7 +21,7 @@ Mentionnez le nom de la carte dans votre serveur Minecraft et n'oubliez pas de c
 
 ## Histoire d'Aprium
 
-D'abord imaginée sur la version Xbox One Edition et construite pendant 8 ans, cette carte essaie d'apporter un réalisme au niveau de l'électricité tout en proposant une certaine liberté pour les joueurs. Suite à un problème avec la sauvegarde d'origine, la carte a été recrée et ré-imaginée (pas à l'identique) pour proposer au(x) joueur(x) une expérience plus intéressante.
+D'abord imaginée sur la version Xbox One Edition et construite pendant 8 ans, cette carte essaie d'apporter un réalisme au niveau de l'électricité tout en proposant une certaine liberté pour les joueurs. Suite à un problème avec la sauvegarde d'origine, la carte a été recrée et ré-imaginée (pas à l'identique) pour proposer au(x) joueur(s) une expérience plus intéressante.
 
 ## Détails
 
