@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="icon.png" alt="Logo" height="128">
+	<img src="https://github.com/enioaiello/aprium/tree/main/icon.png" alt="Logo" height="128">
 </p>
 
 ## À propos d'Aprium
