@@ -1,0 +1,15 @@
+worlds:
+  world:
+    youer: false
+    seed: -2763778432407006105
+    environment: NORMAL
+    name: world
+    info: -/-
+    difficulty: EASY
+    keepspawninmemory: true
+  DIM1:
+    youer: false
+  DIM-1:
+    youer: false
+  WorldEditTempGen:
+    youer: false

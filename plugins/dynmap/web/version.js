@@ -1,0 +1,2 @@
+var dynmapversion = "3.7-beta-11-1.21.9-spigot-Dev";
+

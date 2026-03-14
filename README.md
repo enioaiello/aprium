@@ -6,18 +6,25 @@
 
 **Aprium** est une carte Minecraft roleplay grandement inspiré de l'univers de **Portal 1 et 2** (ainsi que des mods créés par les fans).
 
-> [!IMPORTANT]  
-> Cette carte est récente et est toujours en construction.
+> [!IMPORTANT]
+> Cette version la est une version Moddée, et cette version contient le serveur et le client.
+
+Si vous voulez la version Vanillia, vous pouvez l'avoir juste ici : [Vanillia](https://github.com/enioaiello/aprium/tree/main)
+
+
+> D'ou est venu l'idée de faire une version moddée ?
+
+C'est très simple. On voyait que Minecraft en vanillia était assez limité. et Syxpi a eu l'idée de rendre la map en moddé.
 
 ## Hébergement
 
-Vous souhaitez héberger la carte sur votre serveur Minecraft ? Pas de problème !
+Vous souhaitez héberger le serveur entier ? Pas de problème !
 
-Cette carte est crée par une **seule personne** et vous est proposée **gratuitement**.
+Ce serveur est crée par deux **personnes** ([Enio](https://github.com/enioaiello), [Syxpi](https://github.com/Syxpi)) et vous est proposée **gratuitement**.
 
-Si cette carte vous plaît, n'hésitez pas à faire [un don](#soutiens) pour soutenir le projet.
+Si la carte du serveur vous plait, n'hésitez pas à faire [un don](#soutiens) pour soutenir le projet.
 
-Mentionnez le nom de la carte dans votre serveur Minecraft et n'oubliez pas de créditer le créateur.
+Mentionnez le nom du serveur dans votre projet et n'oubliez pas de créditer le créateur.
 
 ## Histoire d'Aprium
 
@@ -25,21 +32,33 @@ D'abord imaginée sur la version Xbox One Edition et construite pendant 8 ans, c
 
 ## Détails
 
-- Carte Minecraft vanilla en 1.21.7
+- Serveur Minecraft en 1.21.1 sur [Youer](https://mohistmc.com/software/youer) (Paper/Spigot & NeoForge combiné)
+- Map Minecraft 
+- Modpack Client Minecraft en 1.21.1 sur NeoForge
 
 ## Prérequis
 
-- **Minecraft** en dernière version
+### Client :
+- **Minecraft NeoForge 1.21.1** (Modpack Original fourni)
+- Java 21 (Client)
+
+### Serveur :
+- Java 21
+- (Optionnel mais recommandé) : Serveur sous Linux (Debian, Ubuntu, Fedora ou autre)
+- Unzip (pour décompresser le fichier zip)
 
 ## Installation
 
-Il existe deux façons d'installer la carte :
+Il existe deux façons d'installer le serveur :
 - Téléchargement direct du fichier ZIP
 - Clonage du dépôt GitHub
 
+Pour le coté client, on vous recommande d'avoir Prism Launcher pour facilement importer l'archive contenant le coté client.
+
 ### Téléchargement direct
 
-Vous pouvez télécharger la carte en vous rendant sur la page des [releases](https://github.com/enioaiello/aprium/releases) du dépôt GitHub.
+Vous pouvez télécharger le serveur et le coté client en vous rendant sur la page des [releases](https://github.com/enioaiello/aprium/releases) du dépôt GitHub.
+Les releases coté Moddée auront le tag [Modded] au début du nom.
 
 ### Clonez le dépôt
 

@@ -1,0 +1,22 @@
+worlds:
+  enable: true
+warps:
+  enable: true
+tpa:
+  enable: true
+back:
+  enable: true
+menus:
+  enable: true
+hideall:
+  enable: true
+hide:
+  enable: true
+hat:
+  enable: true
+vanish:
+  enable: true
+openinv:
+  enable: true
+entitylimits:
+  enable: true

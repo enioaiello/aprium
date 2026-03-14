@@ -1,0 +1,45 @@
+8bc1dab7-4758-49d8-bcf4-f72eb0dbefb6:
+  location:
+    world: world
+    x: 1990.0727794728768
+    y: -52.96739858358752
+    z: 1999.8354335498084
+    pitch: 32.849964
+    yaw: 102.12961
+  type: TELEPORT
+3c9bb331-883b-4797-a507-3f1d8af5b700:
+  location:
+    world: world
+    x: 19.5
+    y: 28.1875
+    z: 278.5
+    pitch: 30.899963
+    yaw: 131.52823
+  type: TELEPORT
+78f86c48-1726-4376-ba8e-4b230a928177:
+  location:
+    world: world
+    x: -0.512499988079071
+    y: 26.0
+    z: -65.48750001192093
+    pitch: 5.850225
+    yaw: 126.832306
+  type: TELEPORT
+c4ae84b0-3f1f-44f6-a142-bc471f90b820:
+  location:
+    world: world
+    x: 9000.48978257214
+    y: 47.0
+    z: 90000.31862636209
+    pitch: 85.79899
+    yaw: 144.72931
+  type: TELEPORT
+40788431-d4f0-4d7b-a298-9c7c7b60e70a:
+  location:
+    world: world
+    x: -85.49516860863766
+    y: 27.74918707874468
+    z: 462.79482910341574
+    pitch: 8.70001
+    yaw: -157.48035
+  type: TELEPORT
